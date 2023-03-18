@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 đây là week1 mà thôi
+=======
+đây là week1 và main
+>>>>>>> main
